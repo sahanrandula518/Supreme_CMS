@@ -1,0 +1,137 @@
+[
+    {
+        "title": "General",
+        "icon": "bi-sliders",
+        "childrens": [
+            {
+                "title": "Home",
+                "icon": "bi-house-fill",
+                "path": "/"
+            },
+            {
+                "title": "Contact",
+                "icon": "bi-phone-fill",
+                "childrens": [
+                    {
+                        "title": "Facebook",
+                        "icon": "bi-facebook"
+                    },
+                    {
+                        "title": "Twitter",
+                        "icon": "bi-twitter"
+                    },
+                    {
+                        "title": "Instagram",
+                        "icon": "bi-instagram"
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "title": "Search",
+        "icon": "bi-search",
+        "childrens": [
+            {
+                "title": "MO",
+                "path": "/mo"
+            },
+            {
+                "title": "ET",
+                "path": "/et"
+            },
+            {
+                "title": "TD",
+                "path": "/td"
+            },
+            {
+                "title": "RL",
+                "path": "/rl"
+            },
+            {
+                "title": "CT",
+                "path": "/ct"
+            },
+            {
+                "title": "ED",
+                "path": "/ed"
+            },
+            {
+                "title": "SP",
+                "path": "/sp"
+            },
+            {
+                "title": "DC",
+                "path": "/dc"
+            },
+            {
+                "title": "CM",
+                "path": "/cm"
+            },
+            {
+                "title": "TC",
+                "path": "/tc"
+            },
+            {
+                "title": "NL",
+                "path": "/nl"
+            },
+            {
+                "title": "PL",
+                "path": "/pl"
+            },
+            {
+                "title": "NE",
+                "path": "/ne"
+            },
+            {
+                "title": "PROMO",
+                "path": "/promo"
+            },
+            {
+                "title": "NNL",
+                "path": "/nnl"
+            },
+            {
+                "title": "FIL",
+                "path": "/fil"
+            },
+            {
+                "title": "SPTR",
+                "path": "/sptr"
+            }
+        ]
+    },
+    {
+        "title": "Ingest",
+        "icon": "bi-cart-check",
+        "childrens": [
+            {
+                "title": "Ingest_Profile",
+                "path": "/ingest_profile"
+            }
+             
+        ]
+    },
+    {
+        "title": "Create ID",
+        "icon": "bi-person-check"
+       
+    },
+    {
+        "title": "Archive",
+        "icon": "bi-archive",
+        "path": "/archive"
+    },
+    {
+        "title": "Edit",
+        "icon": "bi-pencil-square",
+        "path": "/edit"
+    },
+    {
+        "title": "Settings",
+        "icon": "bi-gear-fill",
+        "path": "/settings"
+    }
+]
